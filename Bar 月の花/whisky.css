@@ -323,9 +323,13 @@ body {
 .category-title span {
   margin-left: 20px;
   font-size: 0.5rem;
-
   color: #fff;
 }
+
+.menu-text {
+  color: white;
+}
+
 
 
 /* フッター */
@@ -596,6 +600,10 @@ body {
     font-size: 2rem;
     font-weight: 200;
     color: #e9ca9c;
+  }
+
+  .sub-menu {
+    margin-top: 10px;
   }
 
   .sub-menu p {
